@@ -3,4 +3,5 @@
 ## 先填入授权码，打开软件
 
 ## 自行获取软件openai和sqrid，可以通过手机端和电脑端抓包获取
+个人使用Http Debugger Pro
 openai在抓包软件的Header里，而sqrid在发送的数据包Request Body
